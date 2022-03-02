@@ -373,6 +373,8 @@ width: 140px;
   overflow: hidden;
   position: relative;
   box-sizing: border-box;
+  display:flex;
+  gap:120px;
 }
 
 .about__title {
@@ -389,6 +391,12 @@ width: 140px;
   line-height: 30px;
   font-weight: 400;
   max-width: 660px;
+  position:relative;
+  display:flex;
+  flex-direction: column;
+  gap:32px;
+  z-index: 1;
+
 }
 
 .about__paragraph {
@@ -400,6 +408,10 @@ width: 140px;
   width: 495px;
   height: 495px;
   border-radius: 50%;
+  position: absolute;
+  top:-121px;
+  left:-91px;
+  z-index: 0;
 }
 
 .footer {
