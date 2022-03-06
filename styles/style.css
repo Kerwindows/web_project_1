@@ -260,6 +260,7 @@ padding: 0;
   align-items: center;
   flex-direction: column;
   gap: 10px; 
+  margin: 0;
 }
 
 .person_name_feynman {
@@ -333,12 +334,10 @@ width: 140px;
   justify-content: space-around;
   width:980px;
   gap:40px;
-
 }
 
 .step {
   flex-basis: 220px;
-  
 }
 
 .step__title {
