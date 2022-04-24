@@ -8,3 +8,6 @@ The Practicum Library webpage is the first project in the Software Engineer prog
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
+
+**Project** 
+* [See it live](https://kerwindows.github.io/web_project_1/)  
